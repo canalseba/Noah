@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item> 
+<title>Películas</title> 
+<thumbnail></thumbnail>
+<fanart>https://raw.githubusercontent.com/canalseba/Seba/master/RepoSeba/Peliculas.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/canalseba/Seba/master/test1.xml</externallink>
+</item>
+
+<item>
+<title>Películas Dibujos</title> 
+<thumbnail></thumbnail>
+<fanart>https://raw.githubusercontent.com/canalseba/Seba/master/RepoSeba/Dibujos.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/canalseba/Seba/master/test2.xml</externallink>
+</item>
+
+<item>
+<title>Series</title>
+<thumbnail></thumbnail>
+<fanart>https://raw.githubusercontent.com/canalseba/Seba/master/RepoSeba/Series1.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/canalseba/Seba/master/test3.xml</externallink>
+<externallink></externallink>
+</item>
